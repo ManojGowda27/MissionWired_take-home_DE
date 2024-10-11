@@ -9,9 +9,9 @@ This repository contains the solution to the Data Engineering exercise provided 
 The solution demonstrates my proficiency in handling large datasets using PySpark, performing complex joins, filtering, and date handling.
 
 ### **Files in the Repository**
-- **`data_engineering_solution.py`**: The main Python script containing the code to load the datasets, process them, and generate the required output files.
+- **`DE_solution.py`**: The main Python script containing the code to load the datasets, process them, and generate the required output files.
 - **`requirements.txt`**: Contains the dependencies required to run the PySpark environment.
-- **Sample Input/Output Files (Optional)**: Some sample CSV files might be included to showcase the structure of the input and output data.
+
 
 ---
 
