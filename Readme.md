@@ -113,6 +113,7 @@ To run this solution, you will need the following dependencies:
 
 - **PySpark** (version 3.0 or higher)
 - **Python 3.x**
+- **Numpy**
 - (Optional) **Jupyter** or **Google Colab** for interactive execution
 
 To install the required libraries, run:
