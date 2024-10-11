@@ -62,7 +62,7 @@ To run this solution on your system, follow the steps below:
    - cons_email.csv - https://als-hiring.s3.amazonaws.com/fake_data/2020-07-01_17%3A11%3A00/cons_email.csv
    - cons_email_chapter_subscription.csv - https://als-hiring.s3.amazonaws.com/fake_data/2020-07-01_17%3A11%3A00/cons_email_chapter_subscription.csv
 
-   Place these files in the appropriate folder or path where the script can access them.
+   Place these files in the appropriate folder or path where the script can access them. Download the files from the link specified next to the dataset.
 
    ### **Disclaimer**
 
