@@ -1,6 +1,3 @@
-It seems there was an issue creating the downloadable `README.md` file. However, you can copy the generated Markdown content below and save it as `README.md` in your local environment.
-
-```markdown
 # **MissionWired Data Engineer Exercise - Test Suite**
 
 ## **Overview**
@@ -39,7 +36,7 @@ pip install pytest
 
 ### **3. Prepare the Dataset**
 
-Make sure you have the necessary CSV files (`cons.csv`, `cons_email.csv`, `cons_email_chapter_subscription.csv`) in the `./Raw_Data/` folder. These files are required for the tests to run properly.
+Make sure you have the necessary CSV files (`cons.csv`, `cons_email.csv`, `cons_email_chapter_subscription.csv`) in the `../Raw_Data/` folder. These files are required for the tests to run properly.
 
 ---
 
@@ -94,15 +91,6 @@ If all tests pass, the output will show `100%` successful completion.
 ## **Troubleshooting**
 
 If you encounter issues or failing tests, check the following:
-1. **Data Files**: Ensure the CSV files are located in the correct directory (`./Raw_Data/`) and are structured properly.
+1. **Data Files**: Ensure the CSV files are located in the correct directory (`../Raw_Data/`) and are structured properly.
 2. **Python Version**: This test suite is designed for Python 3. Make sure you are using Python 3.x (preferably Python 3.7+).
 3. **PySpark Compatibility**: Ensure that PySpark is installed and correctly configured.
-
----
-
-## **Contact**
-
-If you have any questions or issues running the tests, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
-```
-
-You can save this content to a file named `README.md` and include it in your repository. Let me know if you need further assistance!
