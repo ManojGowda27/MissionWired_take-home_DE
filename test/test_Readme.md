@@ -15,26 +15,17 @@ This folder contains the test suite to validate the ETL pipeline for the Data En
 
 ## **Setup**
 
-### **1. Clone the Repository**
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-repo-url/MissionWired_DE.git
-cd MissionWired_DE
-```
-
-### **2. Install Dependencies**
+### **1. Install Dependencies**
 
 You need to install the dependencies required for the tests. This includes **PySpark** and **Pytest**.
 
 To install the dependencies, use the following commands:
 
 ```bash
-pip install pyspark
 pip install pytest
 ```
 
-### **3. Prepare the Dataset**
+### **2. Prepare the Dataset**
 
 Make sure you have the necessary CSV files (`cons.csv`, `cons_email.csv`, `cons_email_chapter_subscription.csv`) in the `../Raw_Data/` folder. These files are required for the tests to run properly.
 
