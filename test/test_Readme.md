@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This repository contains the test suite to validate the ETL pipeline for the MissionWired Data Engineer exercise. The tests are written using **Pytest** and are designed to ensure that the different stages of the ETL process (Extraction, Transformation, Loading) work correctly.
+This folder contains the test suite to validate the ETL pipeline for the Data Engineer exercise. The tests are written using **Pytest** and are designed to ensure that the different stages of the ETL process (Extraction, Transformation, Loading) work correctly.
 
 ### **Key Tests:**
 1. **Data Loading**: Verifies that the CSV files are loaded correctly, and the schema matches the expected structure.
